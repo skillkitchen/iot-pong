@@ -1,0 +1,22 @@
+/*
+ * IOT Pong
+ * by Skill Kitchen
+ * http://www.skillkitchen.co/
+ */
+
+@import
+	"reset",
+	"settings";
+
+@import
+	"helpers/*";
+
+
+// GLOBAL
+html, body {
+	width: 100%;
+	background-color: white;
+	color: $c-black;
+}
+
+// COMPONENTS
